@@ -2,7 +2,7 @@
 Navbar JS
 --------------------*/
 
-function initNavbar() {
+export function initNavbar() {
   const navComponents = document.querySelectorAll("[data-navbar-component]");
   if (!navComponents.length) return;
 
