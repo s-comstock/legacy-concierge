@@ -2,7 +2,7 @@
 Legacy Concierge Custom JavaScript Compiler
 --------------------*/
 
-import { initNavbar } from './components/navbar.js';
+import { initNavbar } from './navbar.js';
 
 /* Initialize after Webflow finishes loading */
 window.Webflow ||= [];
